@@ -22,3 +22,6 @@ yarn-error.log*
 
 //Firebase API
 config.js
+.firebase/*
+.firebaserc
+firebase.json
