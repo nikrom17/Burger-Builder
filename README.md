@@ -1,22 +1,13 @@
+# Burger Builder
 ### Description
-**What's this course about?**
+This is the final project from a Udemy course on React. This React application lets you customize your own burger from a local burger joint. 
 
-Learn React or dive deeper into it. Learn the theory, solve assignments, practice in demo projects and build one big application which is improved throughout the course: The Burger Builder!
+Some of the features this project includes:
 
-**More details please!**
-
-JavaScript is the  **major driver**  of modern web applications since it's the only programming language which runs in the browser and hence allows you to provide highly reactive apps. You'll be able to achieve mobile-app like user experiences in the web.
-
-But using JavaScript  **can be challenging**  - it quickly becomes overwhelming to create a nice web app with vanilla JavaScript and jQuery only.
-
-**React to the rescue!**
-
-**React is all about components**  - basically custom HTML elements - with which you can quickly build amazing and powerful web apps. Just build a component once, configure it to your needs, dynamically pass data into it (or listen to your own events!) and re-use it as often as needed.
-
-Need to display a list of users in your app? It's as simple as creating a "User" component and outputting it as often as needed.
-
-This course will  **start at the very basics**  and explain what exactly React is and how you may use it (and for which kind of apps). Thereafter, we'll go all the way  **from basic to advanced**. We'll not just scratch the surface but dive deeply into React as well as popular libraries like react-router and Redux.
-
+ - User Accouts
+ - Dynamic pricing based on burger ingredients
+ - Forms for gathering contact information
+ - User order history
 
 ## Try it Out!
 My burger builder is live and hosted on Firebase. Check it out here --> https://burger-builder-nroman.firebaseapp.com/
