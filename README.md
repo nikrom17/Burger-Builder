@@ -4,7 +4,7 @@ This is the final project from a Udemy course on React. This React application l
 
 Some of the features this project includes:
 
- - User Accouts
+ - User Accounts
  - Dynamic pricing based on burger ingredients
  - Forms for gathering contact information
  - User order history
